@@ -5,7 +5,7 @@
 # <h1 align="center">Hi 👋, I'm JAYMEEN VAGHELA</h1>
 ### 
 <p align="center"> 
-    <h3 align="center"> A passionate full stack developer from India<br><br>
+    <h3 align="center">An aspiring full stack developer and computer engineering student<br><br>
     Behind every great product is a backend that keeps pushing upward.</h3>
 </p>
 
