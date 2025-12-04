@@ -1,5 +1,5 @@
 <p align="center">
-    <img align="center" src="https://i.pinimg.com/736x/79/ab/13/79ab1362c110f812bb95abd248645763.jpg" />
+    <img align="center" src="image.jpg" />
 </p>
 
 # <h1 align="center">Hi 👋, I'm JAYMEEN VAGHELA</h1>
