@@ -1,6 +1,9 @@
 # <h1 align="center">Hi 👋, I'm JAYMEEN VAGHELA</h1>
-### <h2 align="center">A passionate full stack developer from India</h2>
-<h3 align="center"> Behind every great product is a backend that keeps pushing upward.</h3>
+### 
+<p align="center"> 
+    <h2 align="center"> A passionate full stack developer from India</h2>
+    <h3 align="center"> Behind every great product is a backend that keeps pushing upward.</h3>
+</p>
 
 ---
 
