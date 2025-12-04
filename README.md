@@ -1,118 +1,22 @@
-#  Jaymeen Vaghela  
-### Full-Stack Developer | System Architect | Problem Solver | Future Innovator
+<h1 align="center">Hi 👋, I'm JAYMEEN VAGHELA</h1>
+<h3 align="center">A passionate full stack developer from India</h3>
 
-I’m a passionate Full-Stack Developer focused on building high-performance applications, designing clean architectures, and creating technology that truly solves problems.  
-My development philosophy is simple:  
-**Build things that work, scale, and make an impact.**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaymeen07-r&label=Profile%20views&color=0e75b6&style=flat" alt="jaymeen07-r" /> </p>
 
----
+- 🔭 I’m currently working on [TRINETRA](https://github.com/jaymeen07-r/ClassSight-Pilot)
 
-##  About Me
+- 🌱 I’m currently learning **Node.js**
 
-- Full-Stack Developer with strong backend & frontend expertise  
-- I think like an engineer → architecture, scalability, performance  
-- I design modern, elegant, responsive UI/UX  
-- I convert raw ideas into real, working digital products  
-- Quick learner, team-friendly, and always curious  
-- Strong believer in automation, clean code & long-term solutions  
-- Mission: **Create software that brings real value to people**
+- 📫 How to reach me **jaymeenvaghela07@gmail.com**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/jaymeen_vaghela_264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaymeen_vaghela_264" height="30" width="40" /></a>
+</p>
 
-##  My Technical Expertise
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-### **Frontend Development**
-- React.js, Next.js  
-- HTML5, CSS3, JavaScript (ES6+), TypeScript  
-- Flutter (cross-platform mobile apps)  
-- TailwindCSS, Bootstrap  
-- Responsive Design, UI/UX principles  
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaymeen07-r&show_icons=true&locale=en&layout=compact" alt="jaymeen07-r" /></p>
 
-### **Backend Development**
-- Node.js, Express.js  
-- Python (FastAPI, Flask)  
-- REST APIs, MVC Architecture  
-- Authentication → JWT, OAuth2, RBAC  
-- WebSockets, Real-time apps  
-
-### **Databases**
-- MongoDB, Mongoose  
-- MySQL, PostgreSQL  
-- Firebase Firestore & Realtime DB  
-
-### **DevOps & Tools**
-- Docker  
-- Git, GitHub, GitLab  
-- CI/CD (GitHub Actions)  
-- Postman, Swagger  
-- Linux Commands, Shell Scripting  
-- Basic AWS / GCP knowledge  
-
----
-
-##  Current Focus Areas
-
-- Microservices & scalable backend architecture  
-- Advanced REST API design  
-- Cloud deployments (Docker + CI/CD)  
-- AI-powered automation tools  
-- High-performance frontend & backend systems  
-
----
-
-#  Projects I’ve Built
-
-### ** V.A.S.U — Virtual Assistant System Uniform**
-A futuristic personal virtual assistant with modular architecture.  
-**Tech:** Flutter, Node.js, Python, Firebase  
-
----
-
-### ** Notes API (Production-grade REST API)**
-Secure notes service with JWT authentication and CRUD operations.  
-**Tech:** Node.js, Express.js, MongoDB  
-
----
-
-### ** School Management System**
-Multi-role login system for teachers, parents, and admins.  
-**Tech:** Python, Flask, SQL  
-
----
-
-### ** Multi-User Messaging Engine**
-Automated CSV-based message delivery system for bulk users.  
-**Tech:** Python, Pandas  
-
----
-
-##  My Development Principles
-
-### ** Clean Code**
-Readable, maintainable, scalable.
-
-### ** Strong Architecture**
-Layered, modular, and future-proof systems.
-
-### ** Performance First**
-Fast UIs, optimized queries, efficient APIs.
-
-### ** Security**
-Authentication, validation, error-handling & safe data practices.
-
-### ** Continuous Learning**
-Tech evolves — and so do I.
-
----
-
-##  Connect With Me
-
-**Email:** jaymeenvaghela07@gmail.com  
-**LinkedIn:**  https://www.linkedin.com/in/jaymeen-vaghela-a50649377/
-**GitHub:** https://github.com/jaymeen07-r 
-**Portfolio:**  https://jaymeen07-r.github.io/jaymeenv/
-
----
-
-##  If you like my work, star my repositories — your support motivates me!
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaymeen07-r&" alt="jaymeen07-r" /></p>
