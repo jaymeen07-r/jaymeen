@@ -1,7 +1,11 @@
+<p align="center">
+    <img align="center" src="https://i.pinimg.com/736x/79/ab/13/79ab1362c110f812bb95abd248645763.jpg" height="300" width="400" />
+</p>
+
 # <h1 align="center">Hi 👋, I'm JAYMEEN VAGHELA</h1>
 ### 
 <p align="center"> 
-    <h3 align="center"> A passionate full stack developer from India<br>
+    <h3 align="center"> A passionate full stack developer from India<br><br>
     Behind every great product is a backend that keeps pushing upward.</h3>
 </p>
 
