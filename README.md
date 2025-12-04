@@ -1,9 +1,6 @@
 # <h1 align="center">Hi 👋, I'm JAYMEEN VAGHELA</h1>
 ### <h3 align="center">A passionate full stack developer from India</h3>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=jaymeen07-r&label=Profile%20views&color=0e75b6&style=flat" alt="jaymeen07-r" />
-</p>
+**Behind every great product is a backend that keeps pushing upward.**
 
 ---
 
