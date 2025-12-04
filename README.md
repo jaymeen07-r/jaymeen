@@ -68,3 +68,28 @@ I'm currently pursuing my Bachelor of Engineering in Computer Engineering, with 
 
 
 ---
+
+
+
+
+
+<p align="left" style="margin-bottom: 25px;">
+
+  <a href="https://instagram.com/jaymeen_vaghela_264" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-ff0069?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/jaymeen-vaghela" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:jaymeenvaghela07@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/jaymeen07-r" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+</p>
+
