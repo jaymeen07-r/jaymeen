@@ -16,23 +16,33 @@
 ### Connect with me:
 <p align="left">
 
+  <!-- Instagram -->
   <a href="https://instagram.com/jaymeen_vaghela_264" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-ff0069?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
   </a>
 
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/jaymeen-vaghela" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
 
-  <a href="mailto:jaymeenvaghela07@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
+  <!-- GitHub -->
   <a href="https://github.com/jaymeen07-r" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:jaymeenvaghela07@gmail.com" target="_blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/725/725643.png" height="30" width="40" />
+  </a>
+
+  <!-- Portfolio Website (Optional) -->
+  <a href="https://yourportfolio.com" target="_blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" height="30" width="40" />
   </a>
 
 </p>
+
 
 
 ---
