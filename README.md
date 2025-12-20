@@ -90,8 +90,16 @@ misinformation spreads faster than truth.
     <img align="center" padding-left="100px" width="300px" src="skills.png" />
 </p><br>
 
+| Frontend              | Backend                 | DevOps/Tools         |
+|-----------------------|-------------------------|----------------------|
+| HTML5 (Advanced)      | Python (Advanced)       | Docker (Beginner)    |
+| CSS3 (Advanced)       | Node.js (Intermediate)  | Git (Advanced)       |
+| JavaScript (Advanced) | PHP (Beginner)          | Linux (Intermediate) |
+| Figma (Intermediate)  | MongoDB (Intermediate)  | C (Beginner)         |
+| Flutter (Intermediate)| Firebase (Intermediate) | AWS (Intermediate)   |
+
+
 ---
-<br>
 ### Notable Projects :
 
 - **TRINETRA** – INDIA'S First AI Tool for Combate Misinformation.
