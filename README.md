@@ -108,53 +108,42 @@ misinformation spreads faster than truth.
 ### Connect with me :
 
 
-<table>
+<table align="center">
 <tr>
   <td>
     <table>
-      <tr><td><a href="mailto:jaymeenvaghela07@gmail.com" target="_blank">Gmail</a></td>
-          <td><a href="mailto:jaymeenvaghela07@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="30"/></a></td>
+      <tr>
+          <td><a href="mailto:jaymeenvaghela07@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="30"/></a></td>
+          <td><a href="mailto:jaymeenvaghela07@gmail.com" target="_blank">Gmail</a></td>
       </tr>
     </table>
   </td>
   <td>
     <table>
-      <tr><td><a href="https://www.linkedin.com/in/jaymeen-vaghela" target="_blank">Gmail</a></td>
-          <td><a href="https://www.linkedin.com/in/jaymeen-vaghela" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="30"/></a></td>
+      <tr>
+          <td><a href="https://www.linkedin.com/in/jaymeen-vaghela" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="30"/></a></td>
+          <td><a href="https://www.linkedin.com/in/jaymeen-vaghela" target="_blank">LinkedIn</a></td>
       </tr>
     </table>
   </td>
   <td>
     <table>
-      <tr><td><a href="https://instagram.com/jaymeen_vaghela_264" target="_blank">Gmail</a></td>
-          <td><a href="https://instagram.com/jaymeen_vaghela_264" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="30"/></a></td>
+      <tr>
+          <td><a href="https://instagram.com/jaymeen_vaghela_264" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="30"/></a></td>
+          <td><a href="https://instagram.com/jaymeen_vaghela_264" target="_blank">Instagram</a></td>
       </tr>
     </table>
   </td>
   <td>
     <table>
-      <tr><td><a href="https://github.com/jaymeen07-r" target="_blank">Gmail</a></td>
-          <td><a href="https://github.com/jaymeen07-r" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="30"/></a></td>
+      <tr>
+          <td><a href="https://github.com/jaymeen07-r" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="30"/></a></td>
+          <td><a href="https://github.com/jaymeen07-r" target="_blank">Github</a></td>
       </tr>
     </table>
   </td>
 </tr>
 </table>
-
-<p align="center" style="margin-bottom: 50px;">
-    <a href="https://instagram.com/jaymeen_vaghela_264" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-ff0000?style=for-the-badge&logo=instagram&logoColor=white" />
-    </a>
-    <a href="https://www.linkedin.com/in/jaymeen-vaghela" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:jaymeenvaghela07@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://github.com/jaymeen07-r" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-</p>
 
 
 ---
