@@ -86,36 +86,50 @@ misinformation spreads faster than truth.
 ---
 
 
-<pd>
-    <img align="left" padding-left="100px" width="300px" src="skills.png" />
-</p><br>
+<table>
+<tr>
+  <!-- Image Column -->
+  <td>
+    <img src="skills.png" width="300px" />
+  </td>
 
+  <!-- Frontend Column -->
+  <td>
+    <b>Frontend</b>
+    <table>
+      <tr><td>HTML5</td><td><img src="https://skillicons.dev/icons?i=html" width="30"/></td></tr>
+      <tr><td>CSS3</td><td><img src="https://skillicons.dev/icons?i=css" width="30"/></td></tr>
+      <tr><td>JavaScript</td><td><img src="https://skillicons.dev/icons?i=js" width="30"/></td></tr>
+      <tr><td>Figma</td><td><img src="https://skillicons.dev/icons?i=figma" width="30"/></td></tr>
+      <tr><td>Flutter</td><td><img src="https://skillicons.dev/icons?i=flutter" width="30"/></td></tr>
+    </table>
+  </td>
 
-| Skill      | Icon |
-| ---------- | ---- |
-| HTML5      | [![HTML5](https://skillicons.dev/icons?i=html)](https://skillicons.dev) |
-| CSS3       | [![CSS3](https://skillicons.dev/icons?i=css)](https://skillicons.dev) |
-| JavaScript | [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev) |
-| Figma      | [![Figma](https://skillicons.dev/icons?i=figma)](https://skillicons.dev) |
-| Flutter    | [![Flutter](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev) |
+  <!-- Backend Column -->
+  <td>
+    <b>Backend</b>
+    <table>
+      <tr><td>Python</td><td><img src="https://skillicons.dev/icons?i=python" width="30"/></td></tr>
+      <tr><td>Node.js</td><td><img src="https://skillicons.dev/icons?i=nodejs" width="30"/></td></tr>
+      <tr><td>PHP</td><td><img src="https://skillicons.dev/icons?i=php" width="30"/></td></tr>
+      <tr><td>MongoDB</td><td><img src="https://skillicons.dev/icons?i=mongodb" width="30"/></td></tr>
+      <tr><td>Firebase</td><td><img src="https://skillicons.dev/icons?i=firebase" width="30"/></td></tr>
+      <tr><td>AWS</td><td><img src="https://skillicons.dev/icons?i=aws" width="30"/></td></tr>
+    </table>
+  </td>
 
-
-| Skill      | Icon |
-| ---------- | ---- |
-| Python     | [![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev) |
-| Node.js    | [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev) |
-| PHP        | [![PHP](https://skillicons.dev/icons?i=php)](https://skillicons.dev) |
-| MongoDB    | [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev) |
-| Firebase   | [![Firebase](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev) |
-| AWS        | [![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev) |
-
-
-| Skill      | Icon |
-| ---------- | ---- |
-| Docker     | [![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev) |
-| Git        | [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev) |
-| C          | [![C](https://skillicons.dev/icons?i=c)](https://skillicons.dev) |
-| Linux      | [![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev) |
+  <!-- DevOps / Tools Column -->
+  <td>
+    <b>DevOps / Tools</b>
+    <table>
+      <tr><td>Docker</td><td><img src="https://skillicons.dev/icons?i=docker" width="30"/></td></tr>
+      <tr><td>Git</td><td><img src="https://skillicons.dev/icons?i=git" width="30"/></td></tr>
+      <tr><td>C</td><td><img src="https://skillicons.dev/icons?i=c" width="30"/></td></tr>
+      <tr><td>Linux</td><td><img src="https://skillicons.dev/icons?i=linux" width="30"/></td></tr>
+    </table>
+  </td>
+</tr>
+</table>
 
 
 ---
