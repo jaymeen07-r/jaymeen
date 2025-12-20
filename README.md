@@ -84,6 +84,13 @@ misinformation spreads faster than truth.
 
 
 ---
+
+
+<p align="center">
+    <img align="center" src="skills.png" />
+</p>
+
+---
 ### Notable Projects :
 
 - **TRINETRA** – INDIA'S First AI Tool for Combate Misinformation.
