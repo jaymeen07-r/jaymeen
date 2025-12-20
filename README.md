@@ -77,6 +77,7 @@ misinformation spreads faster than truth.
       <tr><td>GitHub</td><td><img src="https://skillicons.dev/icons?i=github" width="30"/></td></tr>
       <tr><td>C</td><td><img src="https://skillicons.dev/icons?i=c" width="30"/></td></tr>
       <tr><td>Linux</td><td><img src="https://skillicons.dev/icons?i=linux" width="30"/></td></tr>
+      <tr><td>Visual Studio</td><td><img src="https://skillicons.dev/icons?i=visualstudio" width="30"/></td></tr>
     </table>
   </td>
 </tr>
