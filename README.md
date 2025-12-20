@@ -90,13 +90,23 @@ misinformation spreads faster than truth.
     <img align="left" padding-left="100px" width="300px" src="skills.png" />
 </p><br>
 
-| Frontend              | Backend                 | DevOps/Tools         |
-|-----------------------|-------------------------|----------------------|
-| HTML5 (Advanced)      | Python (Advanced)       | Docker (Beginner)    |
-| CSS3 (Advanced)       | Node.js (Intermediate)  | Git (Advanced)       |
-| JavaScript (Advanced) | PHP (Beginner)          | Linux (Intermediate) |
-| Figma (Intermediate)  | MongoDB (Intermediate)  | C (Beginner)         |
-| Flutter (Intermediate)| Firebase (Intermediate) | AWS (Intermediate)   |
+| Skill      | ID                                            |
+| ---------- | ----------------------------------------------|
+| Python     | https://skillicons.dev/icons?i=python,wasm    |
+| Node.js    | https://skillicons.dev/icons?i=node.js,wasm    |
+| PHP        | https://skillicons.dev/icons?i=php,wasm    |
+| HTML5      | https://skillicons.dev/icons?i=html,wasm    |
+| CSS3       | https://skillicons.dev/icons?i=css,wasm    |
+| JavaScript | https://skillicons.dev/icons?i=js,wasm    |
+| Figma      | https://skillicons.dev/icons?i=figma,wasm    |
+| MongoDB    | https://skillicons.dev/icons?i=mongodb,wasm    |
+| AWS        | https://skillicons.dev/icons?i=aws,wasm    |
+| Firebase   | https://skillicons.dev/icons?i=firebase,wasm    |
+| Docker     | https://skillicons.dev/icons?i=doker,wasm    |
+| Flutter    | https://skillicons.dev/icons?i=flutter,wasm    |
+| Git        | https://skillicons.dev/icons?i=git,wasm    |
+| C          | https://skillicons.dev/icons?i=c,wasm    |
+| Linux      | https://skillicons.dev/icons?i=linux,wasm    |
 
 
 ---
