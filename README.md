@@ -92,6 +92,7 @@ misinformation spreads faster than truth.
 - **College Hackathon Projects**<br>
 – **Gen AI Exchange Hackathon 2025** – AI-Based Tool for Combate Misinformation.<br>
 – **SIH Hackathon 2025** – TrueHealth Network - A Digital Bridge Across the Entire Healthcare System.<br>
+– **SSIP Hackathon 2025** – FactWeb AI - AI-Based Help Bot for Information Retrieval from Web Content.<br>
 – **ImpactThon 2025** – Programmable Atomic Radial Task Interface & Command Logic Engine.
 
 
