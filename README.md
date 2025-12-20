@@ -47,6 +47,162 @@ I'm currently pursuing my Bachelor of Engineering in Computer Engineering, with 
 </p>
 
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Jaymeen Vaghela | Skill Graph</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- Chart.js CDN -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+  <style>
+    body {
+      margin: 0;
+      background: #0d1117;
+      color: #c9d1d9;
+      font-family: "Segoe UI", system-ui, sans-serif;
+    }
+
+    .container {
+      max-width: 1100px;
+      margin: 40px auto;
+      padding: 20px;
+    }
+
+    h2 {
+      text-align: center;
+      margin-bottom: 30px;
+      font-weight: 600;
+    }
+
+    canvas {
+      background: #161b22;
+      border-radius: 12px;
+      padding: 20px;
+    }
+
+    .legend {
+      text-align: center;
+      margin-top: 20px;
+      font-size: 14px;
+      opacity: 0.9;
+    }
+
+    .legend span {
+      margin: 0 12px;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <h2>🚀 Skills Proficiency Overview</h2>
+    <canvas id="skillsChart"></canvas>
+
+    <div class="legend">
+      <span>🟢 Advanced (80–100)</span>
+      <span>🟡 Intermediate (50–79)</span>
+      <span>🔴 Beginner (0–49)</span>
+    </div>
+  </div>
+
+  <script>
+    const ctx = document.getElementById("skillsChart");
+
+    new Chart(ctx, {
+      type: "bar",
+      data: {
+        labels: [
+          "Python",
+          "Node.js",
+          "PHP",
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "MongoDB",
+          "AWS",
+          "Firebase",
+          "Docker",
+          "Flutter",
+          "Git",
+          "C",
+          "Linux",
+          "Figma"
+        ],
+        datasets: [{
+          label: "Skill Level",
+          data: [
+            85,  // Python
+            75,  // Node.js
+            65,  // PHP
+            90,  // HTML
+            85,  // CSS
+            80,  // JavaScript
+            70,  // MongoDB
+            60,  // AWS
+            65,  // Firebase
+            55,  // Docker
+            50,  // Flutter
+            80,  // Git
+            60,  // C
+            70,  // Linux
+            75   // Figma
+          ],
+          backgroundColor: function(context) {
+            const value = context.raw;
+            if (value >= 80) return "#2ea043";     // Advanced
+            if (value >= 50) return "#f1c40f";     // Intermediate
+            return "#e74c3c";                      // Beginner
+          },
+          borderRadius: 6
+        }]
+      },
+      options: {
+        responsive: true,
+        plugins: {
+          legend: { display: false },
+          tooltip: {
+            callbacks: {
+              label: function(ctx) {
+                const v = ctx.raw;
+                if (v >= 80) return "Advanced";
+                if (v >= 50) return "Intermediate";
+                return "Beginner";
+              }
+            }
+          }
+        },
+        scales: {
+          y: {
+            beginAtZero: true,
+            max: 100,
+            ticks: {
+              color: "#c9d1d9"
+            },
+            grid: {
+              color: "#30363d"
+            }
+          },
+          x: {
+            ticks: {
+              color: "#c9d1d9"
+            },
+            grid: {
+              display: false
+            }
+          }
+        }
+      }
+    });
+  </script>
+
+</body>
+</html>
+
+
+
 ---
 ###  Notable Projects :
 
