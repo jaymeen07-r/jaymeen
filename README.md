@@ -86,7 +86,7 @@ misinformation spreads faster than truth.
 ---
 
 
-<p align="center">
+<pd>
     <img align="center" padding-left="100px" width="300px" src="skills.png" />
 </p><br>
 
