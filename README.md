@@ -73,6 +73,7 @@ misinformation spreads faster than truth.
     <table>
       <tr><td>Docker</td><td><img src="https://skillicons.dev/icons?i=docker" width="30"/></td></tr>
       <tr><td>Git</td><td><img src="https://skillicons.dev/icons?i=git" width="30"/></td></tr>
+      <tr><td>GitHub</td><td><img src="https://skillicons.dev/icons?i=github" width="30"/></td></tr>
       <tr><td>C</td><td><img src="https://skillicons.dev/icons?i=c" width="30"/></td></tr>
       <tr><td>Linux</td><td><img src="https://skillicons.dev/icons?i=linux" width="30"/></td></tr>
     </table>
