@@ -14,7 +14,7 @@
 
 - 🔭 Building **[TRINETRA](https://github.com/jaymeen07-r/TRINETRA-public)** — intelligent systems with deep tech vision  
 - 🌱 Learning Node.js & scalable backend architectures  
-- 💡 Computer Engineer | Founder @ TRINETRA  
+- 💡 Computer Engineering Student | Founder @ TRINETRA  
 - 🚀 Passionate about AI, system design & futuristic interfaces
 
 
