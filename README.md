@@ -121,8 +121,8 @@ misinformation spreads faster than truth.
   <td>
     <table>
       <tr>
-          <td><a href="https://www.linkedin.com/in/jaymeen-vaghela" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="30"/></a></td>
-          <td><a href="https://www.linkedin.com/in/jaymeen-vaghela" target="_blank" text-decoration="none">LinkedIn</a></td>
+          <td><a href="in/jaymeen-vaghela-a50649377/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="30"/></a></td>
+          <td><a href="in/jaymeen-vaghela-a50649377/" target="_blank" text-decoration="none">LinkedIn</a></td>
       </tr>
     </table>
   </td>
