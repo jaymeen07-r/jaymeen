@@ -92,7 +92,7 @@ misinformation spreads faster than truth.
 
 | Skill      | ID                                            |
 | ---------- | ----------------------------------------------|
-| Python     | https://skillicons.dev/icons?i=python,wasm    |
+| Python     | [![My Skills](https://skillicons.dev/icons?i=python,wasm)](https://skillicons.dev)    |
 | Node.js    | https://skillicons.dev/icons?i=node.js,wasm    |
 | PHP        | https://skillicons.dev/icons?i=php,wasm    |
 | HTML5      | https://skillicons.dev/icons?i=html,wasm    |
