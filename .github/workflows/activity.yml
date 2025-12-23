@@ -1,39 +1,43 @@
 name: Update Coding Activity
 
 on:
+  workflow_dispatch:
   schedule:
-    - cron: "0 */12 * * *"   # every 12 hours
-  workflow_dispatch:        # manual run
-  push:                     # run after commit
+    - cron: "0 */12 * * *"
+
+permissions:
+  contents: write
 
 jobs:
   update:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
       - name: Update README stats
         run: |
-          FILE=README.md
+          FILE="README.md"
 
-          # ---- LeetCode Streak (start from 1) ----
-          STREAK=$(grep -oP '(?<=<!-- STREAK -->)\d+(?=<!-- STREAK -->)' $FILE || echo 0)
+          # ---- Get current streak or default to 0 ----
+          STREAK=$(sed -n 's/.*<!-- STREAK -->\([0-9]*\)<!-- STREAK -->.*/\1/p' $FILE)
+          STREAK=${STREAK:-0}
           NEW_STREAK=$((STREAK + 1))
           sed -i "s/<!-- STREAK -->$STREAK<!-- STREAK -->/<!-- STREAK -->$NEW_STREAK<!-- STREAK -->/" $FILE
 
-          # ---- Random Coding Hours (6–9) ----
-          HOURS=$(shuf -i6-9 -n1)
-          sed -i "s/<!-- HOURS -->.*<!-- HOURS -->/<!-- HOURS -->$HOURS<!-- HOURS -->/" $FILE
+          # ---- Random coding hours (6–9) ----
+          HOURS=$((RANDOM % 4 + 6))
+          sed -i "s/<!-- HOURS -->[0-9]*<!-- HOURS -->/<!-- HOURS -->$HOURS<!-- HOURS -->/" $FILE
 
-          # ---- Random GitHub Contributions ----
-          CONTRIB=$(shuf -i5-20 -n1)
-          sed -i "s/<!-- CONTRIB -->.*<!-- CONTRIB -->/<!-- CONTRIB -->$CONTRIB<!-- CONTRIB -->/" $FILE
+          # ---- Random contributions (5–20) ----
+          CONTRIB=$((RANDOM % 16 + 5))
+          sed -i "s/<!-- CONTRIB -->[0-9]*<!-- CONTRIB -->/<!-- CONTRIB -->$CONTRIB<!-- CONTRIB -->/" $FILE
 
-      - name: Commit & Push
+      - name: Commit & push
         run: |
           git config user.name "jaymeen07-r"
           git config user.email "jaymeen07-r@users.noreply.github.com"
           git add README.md
-          git commit -m "📈 Update coding activity" || echo "No changes to commit"
+          git commit -m "📈 Auto update coding activity" || exit 0
           git push
