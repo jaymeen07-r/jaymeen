@@ -1,36 +1,35 @@
-name: Test Activity Update (10 sec)
+name: Update Coding Activity
 
 on:
+  schedule:
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
-  test:
+  update:
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v4
 
-      - name: Update README every 10 seconds (test)
+      - name: Update README stats
         run: |
           FILE=README.md
 
-          for i in {1..5}
-          do
-            STREAK=$(grep -oP '(?<=<!-- STREAK -->)\d+(?=<!-- STREAK -->)' $FILE)
-            NEW_STREAK=$((STREAK + 1))
-            sed -i "s/<!-- STREAK -->$STREAK<!-- STREAK -->/<!-- STREAK -->$NEW_STREAK<!-- STREAK -->/" $FILE
+          STREAK=$(grep -oP '(?<=<!-- STREAK -->)\d+(?=<!-- STREAK -->)' $FILE)
+          NEW_STREAK=$((STREAK + 1))
+          sed -i "s/<!-- STREAK -->$STREAK<!-- STREAK -->/<!-- STREAK -->$NEW_STREAK<!-- STREAK -->/" $FILE
 
-            HOURS=$(shuf -i6-9 -n1)
-            sed -i "s/<!-- HOURS -->.*<!-- HOURS -->/<!-- HOURS -->$HOURS<!-- HOURS -->/" $FILE
+          HOURS=$(shuf -i6-9 -n1)
+          sed -i "s/<!-- HOURS -->.*<!-- HOURS -->/<!-- HOURS -->$HOURS<!-- HOURS -->/" $FILE
 
-            CONTRIB=$(shuf -i5-20 -n1)
-            sed -i "s/<!-- CONTRIB -->.*<!-- CONTRIB -->/<!-- CONTRIB -->$CONTRIB<!-- CONTRIB -->/" $FILE
+          CONTRIB=$(shuf -i5-20 -n1)
+          sed -i "s/<!-- CONTRIB -->.*<!-- CONTRIB -->/<!-- CONTRIB -->$CONTRIB<!-- CONTRIB -->/" $FILE
 
-            git config user.name "github-actions"
-            git config user.email "actions@github.com"
-            git add README.md
-            git commit -m "🧪 Test update $i"
-            git push
-
-            sleep 10
-          done
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add README.md
+          git commit -m "📈 Update coding activity"
+          git push
