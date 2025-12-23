@@ -2,8 +2,9 @@ name: Update Coding Activity
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
+    - cron: "0 */12 * * *"   # every 12 hours
+  workflow_dispatch:        # manual run
+  push:                     # run after commit
 
 jobs:
   update:
@@ -16,13 +17,16 @@ jobs:
         run: |
           FILE=README.md
 
-          STREAK=$(grep -oP '(?<=<!-- STREAK -->)\d+(?=<!-- STREAK -->)' $FILE)
+          # ---- LeetCode Streak (start from 1) ----
+          STREAK=$(grep -oP '(?<=<!-- STREAK -->)\d+(?=<!-- STREAK -->)' $FILE || echo 0)
           NEW_STREAK=$((STREAK + 1))
           sed -i "s/<!-- STREAK -->$STREAK<!-- STREAK -->/<!-- STREAK -->$NEW_STREAK<!-- STREAK -->/" $FILE
 
+          # ---- Random Coding Hours (6–9) ----
           HOURS=$(shuf -i6-9 -n1)
           sed -i "s/<!-- HOURS -->.*<!-- HOURS -->/<!-- HOURS -->$HOURS<!-- HOURS -->/" $FILE
 
+          # ---- Random GitHub Contributions ----
           CONTRIB=$(shuf -i5-20 -n1)
           sed -i "s/<!-- CONTRIB -->.*<!-- CONTRIB -->/<!-- CONTRIB -->$CONTRIB<!-- CONTRIB -->/" $FILE
 
@@ -31,5 +35,5 @@ jobs:
           git config user.name "jaymeen07-r"
           git config user.email "jaymeen07-r@users.noreply.github.com"
           git add README.md
-          git commit -m "📈 Update coding activity"
+          git commit -m "📈 Update coding activity" || echo "No changes to commit"
           git push
