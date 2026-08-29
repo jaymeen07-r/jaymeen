@@ -114,12 +114,15 @@ I am driven by the belief that technology should not only be powerful, but meani
 ### 🏆 Hackathon Experience
 
 - Gen AI Exchange 2025 – AI-based misinformation tool  
-- SIH 2025 – TrueHealth Network (healthcare system)  
+- Smart India Hackathon 2025 – TrueHealth Network (healthcare system)  
 - SSIP 2025 – FactWeb AI (information retrieval system)  
 - ImpactThon 2025 – Programmable task interface engine  
 - Odoo x Gujarat Vidyapith 2026 – Fleet Matrix (fleet management system)  
 - Odoo x Kadi Sarva Vishwavidhyalaya 2026 – VendorBridge360 (procurement & vendor management erp)  
-- Odoo Hackathon 2026 –
+- Odoo Hackathon 2026 – 
+- Bharatiya Antariksh Hackathon 2026 - Space Technology & Innovation Challenges
+- Build with Gemma 4 – AI Durg - BlackTrace (AI Prototype Development using Google DeepMind Gemma 4 Models)
+- Smart India Hackathon 2026 - Develop a web-based interactive 3D visualization platform that integrates numerical ocean model outputs and in-situ observations.
   
 ---
 
